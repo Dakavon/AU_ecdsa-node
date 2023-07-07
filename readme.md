@@ -1,6 +1,6 @@
 # My approach
 
-![My approach for "ECDSA-Node"](./docs/AU_ecdsa-node.png)
+![My approach for "ECDSA-Node"](./docs/concept_AU_ECDSA-node.png)
 
 ## Starters
 ### Removing structural barriers
@@ -27,6 +27,8 @@ to achieve automatic refreshing and hot reloading.
 - [x] Created a server faucet that allows any address to receive Ether
 - [x] Added `nonce` to the transaction object to prevent replay attacks
 - [x] Played around with useEffect()
+
+![Updated frontend for "ECDSA Node"](./docs/frontend_AU_ECDSA-node.png)
 
 ---
 ---
